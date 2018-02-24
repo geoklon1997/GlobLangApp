@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GlobLang</string>
+    <string name="title_home">History</string>
+    <string name="title_dashboard">Picture->Text</string>
+    <string name="title_notifications">Text->Text</string>
+    <string name="title_chat">Chat</string>
+    <string-array name="availableLanguages">
+        <item>Greek</item>
+        <item>Italian</item>
+        <item>Spanish</item>
+        <item>Bulgarian</item>
+        <item>English</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Russian</item>
+    </string-array>
+</resources>
