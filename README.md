@@ -1,2 +1,2 @@
 # GlobLangApp
-App for translation between languages in an attempt to BREAK LANGUAGE BARRIERS
+App for language translation in an attempt to BREAK LANGUAGE BARRIERS
